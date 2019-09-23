@@ -1,0 +1,15 @@
+.time-line {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.event-container {
+  height: 1080px;
+  max-width: 200px;
+  width: 200px;
+  position: absolute;
+  margin-left: -80px;
+  left: 50%;
+  top: 84px;
+}

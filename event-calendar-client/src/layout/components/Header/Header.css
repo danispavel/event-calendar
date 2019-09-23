@@ -1,0 +1,10 @@
+.header {
+  box-sizing: border-box;
+  background: linear-gradient(45deg, #e2ecf5 30%, #1e3c5b 90%);
+  flex: 0 0 80px;
+  padding: 20px;
+  width: 100%;
+  color: #1e3c5b;
+  user-select: none;
+  font-family: "Open Sans", regular;
+}

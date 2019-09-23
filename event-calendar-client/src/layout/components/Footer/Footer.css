@@ -1,0 +1,11 @@
+.footer {
+  box-sizing: border-box;
+  background: linear-gradient(45deg, #1e3c5b 40%, #e2ecf5 90%);
+  padding: 20px;
+  flex: 0 0 80px;
+  width: 100%;
+  color: #e2ecf5;
+  margin-top: auto;
+  user-select: none;
+  font-family: "Open Sans", regular;
+}

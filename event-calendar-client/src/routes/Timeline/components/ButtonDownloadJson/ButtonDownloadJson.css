@@ -1,0 +1,18 @@
+.download-button {
+  top: 75%;
+  right: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  padding: 5px;
+  height: 75px;
+  width: 75px;
+  border-radius: 150px;
+  background-color: #1e3c5b;
+  color: white;
+}
+
+.fa-file-download {
+  font-size: 50px;
+}

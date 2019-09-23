@@ -1,0 +1,23 @@
+.hour {
+  display: flex;
+  width: 240px;
+  box-sizing: border-box;
+  border-top: solid 1px grey;
+  font-family: "Open Sans", regular;
+  font-weight: 200;
+  user-select: none;
+}
+
+.whole-hour {
+  height: 50%;
+  font-size: 16px;
+}
+
+.half-hour {
+  height: 50%;
+  font-size: 14px;
+}
+.event-space {
+  width: 200px;
+  height: 119px;
+}
